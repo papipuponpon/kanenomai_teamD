@@ -15,7 +15,6 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
-/vendor
 /tests
 vite.config.js
 README.md
